@@ -42,7 +42,7 @@ We used the publicly available GovInfo Bulk Data dataset (as accessed on 3/25/20
 ## Instructions For Use
 Clone our repository using the following link:
 ```
-https://github-dev.cs.illinois.edu/cs225-sp22/kkenm2-jsku2-nrkim2-nprabh8.git
+https://github.com/Klok100/Congressional-Correlation-Project.git
 ```
 To compile the program, run the command:
 ```
